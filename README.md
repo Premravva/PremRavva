@@ -1,16 +1,27 @@
-## Hi there 👋
+Welcome to my GitHub portfolio! I'm Prem, a dedicated Software Engineer over 4 years of professional experience in Fullstack development and Data science. I recently graduated with a Master’s in Computer Science from Purdue University. I’m passionate about leveraging my skills to solve complex challenges and contribute to innovative projects. 
 
-<!--
-**Premravva/Premravva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me<br>
+📚 Master’s in Computer Science @ Purdue University<br>
+💼 Teaching Assistant @ Human Intraction to computer at Purdue University<br>
+👨‍💻 Software Engineer @ Accenture (Offices of USA)<br>
+🌐 Passionate about technology and driven to create solutions that make a difference.<br>
 
-Here are some ideas to get you started:
+🛠 Skills
+Languages: Python, C#, JavaScript, Java<br>
+Frameworks:  ASP.NET, Angular, React, Django<br>
+Tools: Docker, Git, Power BI, Tableau<br>
+ML Libraries: TensorFlow, PyTorch, Scikit-learn <br>
+.. and follow my LinkedIn for more information: https://www.linkedin.com/in/premravva/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanbajpayee0777&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+🌟 Featured Projects<br>
+💡 Real-time Reddit Data Analytics: Built a real-time analytics dashboard using Kafka and PySpark.<br>
+🖼️ Image Captioning with Deep Learning: Implemented a DNN using LSTM units and Google’s Inception-Resnet-v2.<br>
+📊 Customer Pattern Analysis: Executed customer segmentation with clustering techniques.<br>
+
+📫 Get in Touch
+Email: premkumarravva0987@gmail.com
