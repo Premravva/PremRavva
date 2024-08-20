@@ -1,4 +1,4 @@
-Welcome to my GitHub portfolio! I'm Prem, a dedicated Software Engineer over 4 years of professional experience in Fullstack development and Data science. I recently graduated with a Master’s in Computer Science from Purdue University. I’m passionate about leveraging my skills to solve complex challenges and contribute to innovative projects. 
+Welcome to my GitHub! I’m Prem, a Software Engineer and Financial Analyst with over 4 years of experience specializing in Fullstack Development and Finance. With a Master’s in Computer Science from Purdue University, I thrive on solving complex problems and driving innovation through technology. Explore my projects to see how I turn challenges into opportunities for growth and impact.
 
 ## 🚀 About Me<br>
 📚 Master’s in Computer Science @ Purdue University<br>
