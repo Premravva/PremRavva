@@ -6,12 +6,13 @@ Welcome to my GitHub! I’m Prem, a Software Engineer and Financial Analyst with
 👨‍💻 Ex-Software Engineer @ Accenture (Offices of USA)<br>
 🌐 Passionate about technology and driven to create solutions that make a difference.<br>
 
-🛠 Skills
+🛠 Skills <br>
 ♨ Languages: Python, C#, JavaScript, Java<br>
 ⛁ Databases: PostgreSQL, MySQLs, SQL Server<br>
 🧩 Frameworks:  ASP.NET, Angular, React, Django<br>
-☁️ Cloud Service Providers: Amazon Web Services(AWS), Azure
+☁️ Cloud Service Providers: Amazon Web Services(AWS), Azure <br>
 ⚙️ Tools: Docker, Git, Power BI, Tableau<br>
+
 .. and follow my LinkedIn for more information: https://www.linkedin.com/in/premravva/
 
 ## 📈 GitHub Stats
