@@ -23,9 +23,9 @@ Welcome to my GitHub! I’m Prem, a Software Engineer and Financial Analyst with
 
 
 🌟 Featured Projects<br>
-💡 Real-time Reddit Data Analytics: Built a real-time analytics dashboard using Kafka and PySpark.<br>
-🖼️ Image Captioning with Deep Learning: Implemented a DNN using LSTM units and Google’s Inception-Resnet-v2.<br>
-📊 Customer Pattern Analysis: Executed customer segmentation with clustering techniques.<br>
+💡 Clinic-Management-System-ASP.NET <br>
+🖼️ Hospital_Management-System.<br>
+📊 House_Rent_Prediction_Model-R-Language. <br>
 
 📫 Get in Touch
 Email: premkumarravva0987@gmail.com
