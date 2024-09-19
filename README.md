@@ -3,7 +3,7 @@ Welcome to my GitHub! I’m Prem, a Software Engineer and Financial Analyst with
 ## 🚀 About Me<br>
 👨🏻‍🎓 Master’s in Computer Science @ Purdue University<br>
 💼 Teaching Assistant @ Human Computer Interaction and UI/UX at Purdue University<br>
-👨‍💻 Ex-Software Engineer @ Accenture (Offices of USA)<br>
+👨‍💻 Ex-Software Engineer @ Accenture<br>
 🌐 Passionate about technology and driven to create solutions that make a difference.<br>
 
 🛠 Skills <br>
