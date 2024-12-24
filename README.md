@@ -1,4 +1,4 @@
-Welcome to my GitHub! I’m Prem, a Software Engineer with over 4 years of experience specializing in Fullstack Development. With a Master’s in Computer Science from Purdue University, I thrive on solving complex problems and driving innovation through technology. Explore my projects to see how I turn challenges into opportunities for growth and impact.
+Welcome to my GitHub! I’m Prem, a Software Engineer with over 3 years of experience specializing in Fullstack Development and SAP at Accenture. With a Master’s in Computer Science from Purdue University, I thrive on solving complex problems and driving innovation through technology. Explore my projects to see how I turn challenges into opportunities for growth and impact.
 
 ## 🚀 About Me<br>
 👨🏻‍🎓 Master’s in Computer Science @ Purdue University<br>
