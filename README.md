@@ -21,6 +21,9 @@ Welcome to my GitHub! I’m Prem, a Software Engineer with over 3 years of exper
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Premravva&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)
+
+
 
 🌟 Featured Projects<br>
 💡 Clinic-Management-System-ASP.NET <br>
