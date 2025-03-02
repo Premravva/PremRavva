@@ -32,7 +32,7 @@ Welcome to my GitHub! I’m Prem, a Software Engineer with over 3 years of exper
 
 
 🌟 Featured Projects<br>
-💡 •	Alert sense Drowsiness Detection system <br>
+💡 Alert sense Drowsiness Detection system <br>
 🖼️ Hospital_Management-System.<br>
 📊 House_Rent_Prediction_Model-R-Language. <br>
 
