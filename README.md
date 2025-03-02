@@ -3,7 +3,11 @@ Welcome to my GitHub! I’m Prem, a Software Engineer with over 3 years of exper
 ## 🚀 About Me<br>
 👨🏻‍🎓 Master’s in Computer Science @ Purdue University<br>
 💼 Teaching Assistant @ Human Computer Interaction and UI/UX at Purdue University<br>
+👨‍💻 Web Design and Development Expert - Mercor - Present<br>
+👨‍💻 Software Engineer, Intern - InnoMountain - Present<br>
+👨‍💻 Ex-Software Engineer, Graduate Assistant - Purdue University<br>
 👨‍💻 Ex-Software Engineer @ Accenture<br>
+
 🌐 Passionate about technology and driven to create solutions that make a difference.<br>
 
 🛠 Skills <br>
